@@ -16,6 +16,9 @@ sites:
   - name: Wiki
     url: https://wiki.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
+  - name: PHP
+    url: https://php.dtdhomelab.com/
+    __dangerous__disable_verify_peer: true
 
 status-website:
   cname: status.dtdhomelab.com
