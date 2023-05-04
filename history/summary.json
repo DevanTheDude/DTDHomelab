@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dtdhomelab.com.ico",
     "slug": "dtd-homelab",
     "status": "up",
-    "uptime": "1.87%",
-    "uptimeDay": "1.87%",
-    "uptimeWeek": "1.87%",
-    "uptimeMonth": "1.87%",
-    "uptimeYear": "1.87%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 803,
     "timeDay": 803,
     "timeWeek": 803,
     "timeMonth": 803,
     "timeYear": 803,
-    "dailyMinutesDown": {
-      "2023-05-04": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stable Diffusion",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/art.dtdhomelab.com.ico",
     "slug": "stable-diffusion",
     "status": "up",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 688,
     "timeDay": 688,
     "timeWeek": 688,
     "timeMonth": 688,
     "timeYear": 688,
-    "dailyMinutesDown": {
-      "2023-05-04": 144
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
@@ -63,38 +59,34 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dtdhomelab.com.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "1.92%",
-    "uptimeDay": "1.92%",
-    "uptimeWeek": "1.92%",
-    "uptimeMonth": "1.92%",
-    "uptimeYear": "1.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 705,
     "timeDay": 705,
     "timeWeek": 705,
     "timeMonth": 705,
     "timeYear": 705,
-    "dailyMinutesDown": {
-      "2023-05-04": 137
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PHP",
     "url": "https://php.dtdhomelab.com/",
     "icon": "https://icons.duckduckgo.com/ip3/php.dtdhomelab.com.ico",
     "slug": "php",
-    "status": "down",
-    "uptime": "41.41%",
-    "uptimeDay": "41.41%",
-    "uptimeWeek": "41.41%",
-    "uptimeMonth": "41.41%",
-    "uptimeYear": "41.41%",
-    "time": 2768,
-    "timeDay": 2768,
-    "timeWeek": 2768,
-    "timeMonth": 2768,
-    "timeYear": 2768,
-    "dailyMinutesDown": {
-      "2023-05-04": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1839,
+    "timeDay": 1839,
+    "timeWeek": 1839,
+    "timeMonth": 1839,
+    "timeYear": 1839,
+    "dailyMinutesDown": {}
   }
 ]
