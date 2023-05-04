@@ -7,10 +7,13 @@ sites:
     url: https://www.google.com
   - name: DTDHomelab
     url: https://dtdhomelab.com/
+    __dangerous__disable_verify_peer: true
   - name: Stable Diffusion
     url: https://art.dtdhomelab.com/
+    __dangerous__disable_verify_peer: true
   - name: Wiki
     url: https://wiki.dtdhomelab.com/
+    __dangerous__disable_verify_peer: true
 
 status-website:
   cname: status.dtdhomelab.com
