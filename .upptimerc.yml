@@ -9,10 +9,9 @@ sites:
     url: https://dtdhomelab.com/
     __dangerous__disable_verify_peer: true
   - name: Stable Diffusion
-    url: https://art.dtdhomelab.com/
+    url: https://art10.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
-    expectedStatusCodes:
-    - 401
+    __dangerous__body_down: "False"
   - name: Wiki
     url: https://wiki.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
