@@ -11,6 +11,8 @@ sites:
   - name: Stable Diffusion
     url: https://art.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+    - 401
   - name: Wiki
     url: https://wiki.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
