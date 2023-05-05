@@ -37,7 +37,7 @@ sites:
 
 status-website:
   cname: status.dtdhomelab.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i.imgur.com/Vgk4r0t.png
   name: DTDHomelab
   introTitle: "DTDHomelab Status Page"
   introMessage: View status all services hosted on DTDServer
