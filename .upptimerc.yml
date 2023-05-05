@@ -6,6 +6,7 @@ sites:
   - name: DTDHomelab Internet
     check: "tcp-ping"
     url: https://dtdhomelab.com/
+    port: 443
     __dangerous__disable_verify_peer: true
     - name: Web Server
     url: https://statuscheck.dtdhomelab.com/
