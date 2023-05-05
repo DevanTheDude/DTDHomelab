@@ -38,14 +38,11 @@ sites:
 status-website:
   cname: status.dtdhomelab.com
   logoUrl: https://i.imgur.com/Vgk4r0t.png
+  themeUrl: https://github.com/DevanTheDude/DTDHomelab/blob/master/assets/dtdstyle.css
   name: DTDHomelab
   introTitle: "DTDHomelab Status Page"
   introMessage: View status all services hosted on DTDServer
   navbar:
     - title: Status
       href: /
-    - title: Wiki
-      href: https://wiki.dtdhomelab.com/
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
