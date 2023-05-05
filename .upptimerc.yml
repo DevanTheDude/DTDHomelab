@@ -46,3 +46,6 @@ status-website:
     - title: Status
       href: /
 
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/DevanTheDude/DTDHomelab/master/assets/dtdstyle.css
