@@ -15,6 +15,10 @@ sites:
   - name: Wiki
     url: https://wiki.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
+  - name: Remote Access 
+    check: "tcp-ping"
+    url: http://dtdhomelab.com
+    port: 5900
   - name: PHP
     url: https://php.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
