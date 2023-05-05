@@ -47,3 +47,5 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Health
+      href: https://health.dtdhomelab.com/?theme=dark
