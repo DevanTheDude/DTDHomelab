@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/artstatus.dtdhomelab.com.ico",
     "slug": "stable-diffusion",
     "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 675,
     "timeDay": 675,
     "timeWeek": 675,
     "timeMonth": 675,
     "timeYear": 675,
-    "dailyMinutesDown": {
-      "2023-05-04": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
