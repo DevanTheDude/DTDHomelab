@@ -38,6 +38,9 @@ sites:
 status-website:
   cname: status.dtdhomelab.com
   logoUrl: https://i.imgur.com/Vgk4r0t.png
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/DevanTheDude/DTDHomelab/master/assets/dtdstyle.css
   name: DTDHomelab
   introTitle: "DTDHomelab Status Page"
   introMessage: View status all services hosted on DTDServer
