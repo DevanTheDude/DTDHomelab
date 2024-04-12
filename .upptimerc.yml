@@ -13,7 +13,7 @@ sites:
     __dangerous__disable_verify_peer: true
     __dangerous__body_down: "webOff"
   - name: Stable Diffusion
-    url: https://statuscheck.dtdhomelab.com/
+    url: https://art.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
     __dangerous__body_down: "artOff"
   - name: Wiki
@@ -35,11 +35,11 @@ sites:
     __dangerous__disable_verify_peer: true
     __dangerous__body_down: "plexOff"
   - name: Health Dashboard
-    url: https://statuscheck.dtdhomelab.com/
+    url: https://health.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
     __dangerous__body_down: "healthOff"
   - name: OPDS
-    url: https://statuscheck.dtdhomelab.com/
+    url: https://opds.dtdhomelab.com/
     __dangerous__disable_verify_peer: true
     __dangerous__body_down: "ubooquityOFF"
  
