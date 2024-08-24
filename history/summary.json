@@ -283,7 +283,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "remote-access",
     "status": "up",
-    "uptime": "88.67%",
+    "uptime": "88.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
@@ -365,9 +365,9 @@
     "slug": "php",
     "status": "down",
     "uptime": "23.15%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "93.43%",
     "uptimeWeek": "68.04%",
-    "uptimeMonth": "25.83%",
+    "uptimeMonth": "25.61%",
     "uptimeYear": "21.13%",
     "time": 2117,
     "timeDay": 1816,
@@ -375,7 +375,8 @@
     "timeMonth": 2173,
     "timeYear": 2179,
     "dailyMinutesDown": {
-      "2024-08-23": 0,
+      "2024-08-24": 62,
+      "2024-08-23": 33,
       "2024-08-19": 309,
       "2024-08-18": 1440,
       "2024-08-17": 1440,
@@ -677,8 +678,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -687,7 +687,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "sql",
     "status": "up",
-    "uptime": "83.59%",
+    "uptime": "83.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
