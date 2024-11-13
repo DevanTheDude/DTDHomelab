@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
     "time": 347,
-    "timeDay": 359,
+    "timeDay": 355,
     "timeWeek": 346,
-    "timeMonth": 340,
+    "timeMonth": 341,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2024-10-10": 829,
@@ -34,15 +34,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "web-server",
     "status": "up",
-    "uptime": "89.92%",
+    "uptime": "89.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "89.10%",
     "time": 680,
-    "timeDay": 768,
-    "timeWeek": 707,
-    "timeMonth": 681,
+    "timeDay": 706,
+    "timeWeek": 710,
+    "timeMonth": 680,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2024-10-10": 838,
@@ -89,8 +89,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -99,14 +98,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "stable-diffusion",
     "status": "up",
-    "uptime": "89.93%",
+    "uptime": "89.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "89.10%",
     "time": 108,
-    "timeDay": 102,
-    "timeWeek": 90,
+    "timeDay": 90,
+    "timeWeek": 89,
     "timeMonth": 84,
     "timeYear": 86,
     "dailyMinutesDown": {
@@ -154,8 +153,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -164,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.dtdhomelab.com.ico",
     "slug": "wiki",
     "status": "up",
-    "uptime": "89.93%",
+    "uptime": "89.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "89.09%",
     "time": 711,
-    "timeDay": 734,
-    "timeWeek": 731,
-    "timeMonth": 696,
+    "timeDay": 714,
+    "timeWeek": 718,
+    "timeMonth": 695,
     "timeYear": 707,
     "dailyMinutesDown": {
       "2024-10-10": 829,
@@ -220,8 +218,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -230,14 +227,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "remote-access",
     "status": "up",
-    "uptime": "89.94%",
+    "uptime": "89.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.83%",
+    "uptimeYear": "89.10%",
     "time": 85,
-    "timeDay": 96,
-    "timeWeek": 90,
+    "timeDay": 93,
+    "timeWeek": 89,
     "timeMonth": 84,
     "timeYear": 85,
     "dailyMinutesDown": {
@@ -285,8 +282,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -295,18 +291,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/php.dtdhomelab.com.ico",
     "slug": "php",
     "status": "down",
-    "uptime": "21.69%",
+    "uptime": "21.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "10.61%",
+    "uptimeMonth": "7.32%",
     "uptimeYear": "18.86%",
     "time": 2217,
-    "timeDay": 2711,
-    "timeWeek": 2689,
-    "timeMonth": 2509,
-    "timeYear": 2246,
+    "timeDay": 2731,
+    "timeWeek": 2692,
+    "timeMonth": 2566,
+    "timeYear": 2247,
     "dailyMinutesDown": {
-      "2024-11-12": 69,
+      "2024-11-13": 70,
+      "2024-11-12": 1440,
       "2024-11-11": 1440,
       "2024-11-10": 1440,
       "2024-11-09": 1440,
@@ -615,8 +612,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -625,13 +621,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "sql",
     "status": "up",
-    "uptime": "85.59%",
+    "uptime": "85.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.83%",
+    "uptimeYear": "89.10%",
     "time": 85,
-    "timeDay": 107,
+    "timeDay": 103,
     "timeWeek": 90,
     "timeMonth": 85,
     "timeYear": 84,
@@ -680,8 +676,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -690,14 +685,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "89.93%",
+    "uptime": "89.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.83%",
+    "uptimeYear": "89.10%",
     "time": 85,
-    "timeDay": 99,
-    "timeWeek": 88,
+    "timeDay": 95,
+    "timeWeek": 87,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -745,8 +740,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -755,14 +749,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/statuscheck.dtdhomelab.com.ico",
     "slug": "health-dashboard",
     "status": "up",
-    "uptime": "89.92%",
+    "uptime": "89.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "88.83%",
+    "uptimeYear": "89.10%",
     "time": 86,
-    "timeDay": 101,
-    "timeWeek": 88,
+    "timeDay": 90,
+    "timeWeek": 86,
     "timeMonth": 85,
     "timeYear": 86,
     "dailyMinutesDown": {
@@ -810,8 +804,7 @@
       "2023-11-18": 1440,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
-      "2023-11-15": 1440,
-      "2023-11-14": 1440
+      "2023-11-15": 1440
     }
   },
   {
@@ -826,9 +819,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
     "time": 120,
-    "timeDay": 98,
-    "timeWeek": 87,
-    "timeMonth": 85,
+    "timeDay": 91,
+    "timeWeek": 85,
+    "timeMonth": 86,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2024-10-10": 829,
