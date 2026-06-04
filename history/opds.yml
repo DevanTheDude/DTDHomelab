@@ -1,7 +1,7 @@
 url: https://statuscheck.dtdhomelab.com/
-status: down
-code: 522
-responseTime: 19758
-lastUpdated: 2026-06-04T13:53:00.304Z
+status: up
+code: 200
+responseTime: 92
+lastUpdated: 2026-06-04T16:36:04.373Z
 startTime: 2024-04-12T16:14:46.824Z
 generator: Upptime <https://github.com/upptime/upptime>
